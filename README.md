@@ -1,2 +1,2 @@
 # Web-development-photography-Using-CSS
-create the web page
+create the Photography webpage 
